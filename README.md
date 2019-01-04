@@ -1,0 +1,7 @@
+# plugindemo
+简单插件化demo 采用静态代理的方式
+pluginapp为插件app
+pluginproxy为主app
+pluginlibrary为约定的接口
+
+用静态代理的方式实现，启动模式等可以定义多个launchMode不同的ProxyActivity实现
